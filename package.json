@@ -1,0 +1,24 @@
+{
+  "name": "nodeassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandu2212/nodeassignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandu2212/nodeassignment/issues"
+  },
+  "homepage": "https://github.com/nandu2212/nodeassignment#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "nodemon": "^2.0.20"
+  }
+}
